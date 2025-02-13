@@ -70,8 +70,4 @@ Develop a mobile application for seamless integration.
 
 Contributors
 
-Your Name (or team members)
-
-License
-
-This project is licensed under the MIT License.
+Prashant Srivastava
